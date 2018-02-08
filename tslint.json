@@ -48,6 +48,15 @@
         ],
         "one-variable-per-declaration": [
             false
+        ],
+        "semicolon": [
+            true,
+            "never"
+        ],
+        "no-console": [
+            true,
+            "log",
+            "error"
         ]
     },
     "rulesDirectory": []
