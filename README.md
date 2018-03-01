@@ -30,4 +30,8 @@ $ npm install
 ```
 $ npm run start
 ```
+or
 
+```
+$ yarn start
+```
